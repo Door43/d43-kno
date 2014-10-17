@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kno:home|Door43 (kno)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kno|d43-kno repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kno/archive/master.zip|d43-kno.zip]]
+
+**Recent Changes**
+{{changes>ns = kno}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kno|Ethnologue data]]
+
